@@ -16,14 +16,8 @@ jobs:
           node-version: "12.x"
       - name: Install Dependencies
         run: npm install
-  run-script:
-    runs-on: ubuntu-latest
-    steps:
       - name: Run app.js
         run: npm start    
-  git-push:
-    runs-on: ubuntu-latest
-    steps:
       - name: Commit the new README.MD file
         run: |-
           git diff
