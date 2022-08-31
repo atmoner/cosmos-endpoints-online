@@ -48,27 +48,22 @@ var finalData = []
   }
 
 
-var content = ''
-
+  var content = ''
+  var datetime = new Date();
+  content += `Last update: ` + datetime + `
+  `
   var chainsToCheck = ['cosmoshub', 'bitcanna', 'osmosis', 'desmos', 'chihuahua', 'juno', 'stargaze', 'akash']
   chainsToCheck.forEach(async function(item) {  
     
-const assetList = assets.find(({chain_name})=>chain_name===item);
-
-console.log(assetList.assets[0].logo_URIs.png);    
+    const assetList = assets.find(({chain_name}) => chain_name === item) 
     
     var lcd = await getLcd(item)
     var rpc = await getRpc(item)
-    console.log(lcd, rpc)
     content += `### <img alt="`+item+`" src="`+assetList.assets[0].logo_URIs.png+`" width="30" height="30"> ` + item + `
 `
     content += `&emsp; LCD :green_circle: ` + lcd + `  
 `
     content += `&emsp; RPC :green_circle: ` + rpc + `  
 `
-    fs.writeFileSync("README.md", content);
-     
-  })  
-  
- 
- 
+    fs.writeFileSync("README.md", content)     
+  })   
