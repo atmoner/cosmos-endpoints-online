@@ -1,4 +1,4 @@
-name: Create README.md
+name: Update chains in README.md
 on:
   push:
   pull_request:
@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  build:
+  check-chains:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
