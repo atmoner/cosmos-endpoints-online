@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  config-script:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
