@@ -24,4 +24,4 @@ jobs:
           git config --global user.email "contact.atmoner@gmail.com"
           git config --global user.name "atmoner"
           git diff --quiet || (git add README.md && git commit -m "Update the README.md file")
-          git push       
+          git push origin main
