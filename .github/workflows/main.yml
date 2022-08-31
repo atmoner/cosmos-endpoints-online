@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  check-chains:
+  config-script:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,12 +16,18 @@ jobs:
           node-version: "12.x"
       - name: Install Dependencies
         run: npm install
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
       - name: Run app.js
-        run: npm start
+        run: npm start    
+  git-push:
+    runs-on: ubuntu-latest
+    steps:
       - name: Commit the new README.MD file
         run: |-
           git diff
           git config --global user.email "contact.atmoner@gmail.com"
           git config --global user.name "atmoner"
           git diff --quiet || (git add README.md && git commit -m "Update the README.md file")
-          git push
+          git push       
