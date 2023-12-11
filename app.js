@@ -52,7 +52,7 @@ var finalData = []
   var datetime = new Date();
   content += `Last update: ` + datetime + `
   `
-  var chainsToCheck = ['cosmoshub', 'bitcanna', 'osmosis', 'desmos', 'chihuahua', 'juno', 'stargaze', 'akash', 'axelar', 'kichain', 'kujira', 'meme', 'passage', 'persistence', 'secretnetwork', 'starname', 'likecoin', 'gravitybridge', 'emoney', 'dig', 'bitsong', 'cheqd']
+  var chainsToCheck = ['cosmoshub', 'bitcanna', 'osmosis', 'nolus', 'chihuahua', 'stride', 'stargaze', 'akash', 'axelar', 'mars', 'kujira', 'teritori', 'celestia', 'bandchain', 'secretnetwork', 'archway', 'dydx', 'gravitybridge', 'injective', 'jackal', 'neutron', 'noble','umee']
   chainsToCheck.forEach(async function(item) {  
     
     const assetList = assets.find(({chain_name}) => chain_name === item) 
