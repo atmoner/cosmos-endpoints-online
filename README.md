@@ -1,4 +1,4 @@
-Last update: Wed Jan 10 2024 00:06:45 GMT+0000 (Coordinated Universal Time)
+Last update: Wed Jan 10 2024 12:02:52 GMT+0000 (Coordinated Universal Time)
   ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
@@ -20,27 +20,27 @@ Last update: Wed Jan 10 2024 00:06:45 GMT+0000 (Coordinated Universal Time)
 ### <img alt="meme" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png" width="30" height="30"> meme
 &emsp; LCD :green_circle: https://api-meme-1.meme.sx/  
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
-### <img alt="likecoin" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.png" width="30" height="30"> likecoin
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://mainnet-node.like.co/rpc/  
-### <img alt="starname" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.png" width="30" height="30"> starname
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle:   
-### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.core.persistence.one  
 ### <img alt="desmos" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.png" width="30" height="30"> desmos
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.mainnet.desmos.network  
+### <img alt="likecoin" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/likecoin/images/like.png" width="30" height="30"> likecoin
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://mainnet-node.like.co/rpc/  
+### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.core.persistence.one  
+### <img alt="starname" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.png" width="30" height="30"> starname
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle:   
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+&emsp; LCD :green_circle: https://rest.stargaze-apis.com/  
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="dig" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/dig/images/dig.png" width="30" height="30"> dig
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-1-dig.notional.ventures  
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle: https://emoney.validator.network/api/  
 &emsp; RPC :green_circle: https://emoney.validator.network  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
-&emsp; LCD :green_circle: https://rest.stargaze-apis.com/  
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="cheqd" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.png" width="30" height="30"> cheqd
 &emsp; LCD :green_circle: https://api.cheqd.net  
 &emsp; RPC :green_circle: https://rpc.cheqd.net  
