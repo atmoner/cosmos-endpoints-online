@@ -1,4 +1,4 @@
-Last update: Thu Sep 26 2024 12:20:48 GMT+0000 (Coordinated Universal Time)
+Last update: Fri Sep 27 2024 00:52:24 GMT+0000 (Coordinated Universal Time)
   ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
@@ -26,36 +26,33 @@ Last update: Thu Sep 26 2024 12:20:48 GMT+0000 (Coordinated Universal Time)
 ### <img alt="starname" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/starname/images/iov.png" width="30" height="30"> starname
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle:   
-### <img alt="dig" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/dig/images/dig.png" width="30" height="30"> dig
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle:   
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle: https://emoney.validator.network/api/  
 &emsp; RPC :green_circle: https://emoney.validator.network  
 ### <img alt="cheqd" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.png" width="30" height="30"> cheqd
 &emsp; LCD :green_circle: https://api.cheqd.net  
 &emsp; RPC :green_circle: https://rpc.cheqd.net  
-### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.chihuahua.wtf/  
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
-### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
-### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
 ### <img alt="desmos" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.png" width="30" height="30"> desmos
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.mainnet.desmos.network  
+### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.bitcanna.io/  
+### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.chihuahua.wtf/  
+### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
 &emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
+&emsp; RPC :green_circle: https://rpc-cosmoshub.whispernode.com  
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.kaiyo.kujira.setten.io  
@@ -65,3 +62,6 @@ Last update: Thu Sep 26 2024 12:20:48 GMT+0000 (Coordinated Universal Time)
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://osmosis-rpc.quickapi.com:443  
+### <img alt="dig" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/dig/images/dig.png" width="30" height="30"> dig
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle:   
