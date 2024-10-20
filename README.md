@@ -1,4 +1,4 @@
-Last update: Sun Oct 20 2024 00:57:20 GMT+0000 (Coordinated Universal Time)
+Last update: Sun Oct 20 2024 12:20:04 GMT+0000 (Coordinated Universal Time)
   ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle: https://axelar-lcd.quickapi.com:443  
 &emsp; RPC :green_circle: https://axelar-rpc.quickapi.com:443  
@@ -11,21 +11,21 @@ Last update: Sun Oct 20 2024 00:57:20 GMT+0000 (Coordinated Universal Time)
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://api.akash.forbole.com:443  
 &emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
-### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
-&emsp; LCD :green_circle: https://api.passage.vitwit.com  
-&emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
-### <img alt="cheqd" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.png" width="30" height="30"> cheqd
-&emsp; LCD :green_circle: https://api.cheqd.net  
-&emsp; RPC :green_circle: https://rpc.cheqd.net  
 ### <img alt="meme" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png" width="30" height="30"> meme
 &emsp; LCD :green_circle: https://api-meme-1.meme.sx/  
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
-### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
-&emsp; LCD :green_circle: https://emoney.validator.network/api/  
-&emsp; RPC :green_circle: https://emoney.validator.network  
+### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
+&emsp; LCD :green_circle: https://api.passage.vitwit.com  
+&emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
+### <img alt="cheqd" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cheqd/images/cheq.png" width="30" height="30"> cheqd
+&emsp; LCD :green_circle: https://api.cheqd.net  
+&emsp; RPC :green_circle: https://rpc.cheqd.net  
+### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
+&emsp; LCD :green_circle: https://emoney.validator.network/api/  
+&emsp; RPC :green_circle: https://emoney.validator.network  
 ### <img alt="desmos" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.png" width="30" height="30"> desmos
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.mainnet.desmos.network  
@@ -38,12 +38,12 @@ Last update: Sun Oct 20 2024 00:57:20 GMT+0000 (Coordinated Universal Time)
 ### <img alt="bitcanna" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitcanna/images/bcna.png" width="30" height="30"> bitcanna
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.bitcanna.io/  
-### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
 ### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
+### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
 ### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
 &emsp; LCD :green_circle: https://lcd.explorebitsong.com/  
 &emsp; RPC :green_circle: https://rpc.explorebitsong.com  
