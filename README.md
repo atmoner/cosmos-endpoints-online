@@ -1,10 +1,13 @@
-Last update: Mon Oct 28 2024 12:03:38 GMT+0000 (Coordinated Universal Time)
+Last update: Tue Oct 29 2024 00:08:38 GMT+0000 (Coordinated Universal Time)
   ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secret-4.api.trivium.network:1317  
 &emsp; RPC :green_circle: https://secret-4.api.trivium.network:26657  
 ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle: https://axelar-lcd.quickapi.com:443  
 &emsp; RPC :green_circle: https://axelar-rpc.quickapi.com:443  
+### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
+&emsp; LCD :green_circle: https://api.akash.forbole.com:443  
+&emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
 ### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
 &emsp; LCD :green_circle: https://api-mainnet.blockchain.ki  
 &emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
@@ -20,12 +23,12 @@ Last update: Mon Oct 28 2024 12:03:38 GMT+0000 (Coordinated Universal Time)
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle: https://emoney.validator.network/api/  
 &emsp; RPC :green_circle: https://emoney.validator.network  
-### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.core.persistence.one  
 ### <img alt="desmos" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.png" width="30" height="30"> desmos
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.mainnet.desmos.network  
+### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.core.persistence.one  
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf/  
@@ -47,9 +50,6 @@ Last update: Mon Oct 28 2024 12:03:38 GMT+0000 (Coordinated Universal Time)
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.kaiyo.kujira.setten.io  
-### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
-&emsp; LCD :green_circle: https://rest-akash.ecostake.com  
-&emsp; RPC :green_circle: https://rpc-akash.ecostake.com:443  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
