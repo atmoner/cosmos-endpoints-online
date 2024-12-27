@@ -17,6 +17,9 @@ Last update: Fri Dec 27 2024 00:08:24 GMT+0000 (Coordinated Universal Time)
 ### <img alt="meme" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png" width="30" height="30"> meme
 &emsp; LCD :green_circle: https://api-meme-1.meme.sx/  
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
+### <img alt="elys network" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png" width="30" height="30"> elys network
+&emsp; LCD :green_circle: https://api.elys.network/  
+&emsp; RPC :green_circle: https://rpc-elys.network/ 
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle: https://emoney.validator.network/api/  
 &emsp; RPC :green_circle: https://emoney.validator.network  
