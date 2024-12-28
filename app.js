@@ -13,7 +13,7 @@ var finalData = []
     if (typeof finder !== 'undefined' && typeof finder.apis !== 'undefined') {      
       for (const lcds of finder.apis.rest) {      
         try {
-          const response = await fetch(lcds.address + '/node_info')
+          const response = await fetch(lcds.address)
           if (response.status == 200) {
             finalLcd = lcds.address
             break
