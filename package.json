@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/atmoner/cosmos-endpoints-online#readme",
   "dependencies": {
-    "chain-registry": "^0.8.1",
+    "chain-registry": "^1.69.75",
     "node-fetch": "^3.2.10"
   }
 }
