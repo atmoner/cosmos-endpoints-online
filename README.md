@@ -1,4 +1,4 @@
-Last update: Sun Dec 29 2024 12:03:07 GMT+0000 (Coordinated Universal Time)
+Last update: Mon Dec 30 2024 00:08:56 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://lcd-juno.itastakers.com  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -17,18 +17,18 @@ Last update: Sun Dec 29 2024 12:03:07 GMT+0000 (Coordinated Universal Time)
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle: https://secretnetwork-api.highstakes.ch  
 &emsp; RPC :green_circle: https://scrt.public-rpc.com  
-### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://emoney.validator.network  
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+&emsp; LCD :green_circle: https://api-stargaze.d-stake.xyz  
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
+### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.osmosis.zone/  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
-&emsp; LCD :green_circle: https://stargaze-api.w3coins.io  
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://akash-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
@@ -44,9 +44,9 @@ Last update: Sun Dec 29 2024 12:03:07 GMT+0000 (Coordinated Universal Time)
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle: https://persistence-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
-### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
-&emsp; LCD :green_circle: https://passage-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
+### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
+&emsp; LCD :green_circle: https://passage-rest.publicnode.com  
+&emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
