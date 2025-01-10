@@ -1,4 +1,4 @@
-Last update: Fri Jan 10 2025 00:08:53 GMT+0000 (Coordinated Universal Time)
+Last update: Fri Jan 10 2025 12:03:38 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://lcd-juno.itastakers.com  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -35,12 +35,12 @@ Last update: Fri Jan 10 2025 00:08:53 GMT+0000 (Coordinated Universal Time)
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle:   
-### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc.explorebitsong.com  
 ### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
+### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc.explorebitsong.com  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
