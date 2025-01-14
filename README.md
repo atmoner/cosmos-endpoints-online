@@ -1,4 +1,4 @@
-Last update: Mon Jan 13 2025 12:03:38 GMT+0000 (Coordinated Universal Time)
+Last update: Tue Jan 14 2025 12:03:20 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://lcd-juno.itastakers.com  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -26,12 +26,12 @@ Last update: Mon Jan 13 2025 12:03:38 GMT+0000 (Coordinated Universal Time)
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.osmosis.zone/  
-### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://akash-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
+### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle: https://chihuahua-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf  
