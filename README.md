@@ -1,4 +1,4 @@
-Last update: Mon Feb 10 2025 12:03:30 GMT+0000 (Coordinated Universal Time)
+Last update: Tue Feb 11 2025 00:08:30 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://lcd-juno.itastakers.com  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -8,6 +8,9 @@ Last update: Mon Feb 10 2025 12:03:30 GMT+0000 (Coordinated Universal Time)
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle: https://rest.lavenderfive.com:443/kujira  
 &emsp; RPC :green_circle: https://kujira-rpc.polkachu.com  
+### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
+&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://api.akash.forbole.com:443  
 &emsp; RPC :green_circle: https://rpc.akash.forbole.com:443  
@@ -20,9 +23,6 @@ Last update: Mon Feb 10 2025 12:03:30 GMT+0000 (Coordinated Universal Time)
 ### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.explorebitsong.com  
-### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
-&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
-&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://emoney.validator.network  
