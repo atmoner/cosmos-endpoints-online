@@ -1,4 +1,4 @@
-Last update: Fri Feb 21 2025 12:03:26 GMT+0000 (Coordinated Universal Time)
+Last update: Sat Feb 22 2025 00:08:16 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://lcd-juno.itastakers.com  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -38,12 +38,12 @@ Last update: Fri Feb 21 2025 12:03:26 GMT+0000 (Coordinated Universal Time)
 ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-axelar.imperator.co:443  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
-&emsp; LCD :green_circle: https://api-stargaze.d-stake.xyz  
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle: https://chihuahua-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf  
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+&emsp; LCD :green_circle: https://api-stargaze.d-stake.xyz  
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.osmosis.zone/  
