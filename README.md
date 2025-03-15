@@ -1,4 +1,4 @@
-Last update: Sat Mar 15 2025 00:08:45 GMT+0000 (Coordinated Universal Time)
+Last update: Sat Mar 15 2025 12:03:16 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://lcd-juno.itastakers.com  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -13,28 +13,31 @@ Last update: Sat Mar 15 2025 00:08:45 GMT+0000 (Coordinated Universal Time)
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
 ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
 &emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
-&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
+&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
+### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://scrt.public-rpc.com  
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://akash-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc-akash.ecostake.com:443  
 ### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.explorebitsong.com  
-### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://scrt.public-rpc.com  
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://emoney.validator.network  
-### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
-&emsp; LCD :green_circle: https://passage-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
 ### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
-&emsp; LCD :green_circle: https://persistence-rest.zenscape.one  
+&emsp; LCD :green_circle: https://persistence-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
+### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
+&emsp; LCD :green_circle: https://passage-rest.publicnode.com  
+&emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
+### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
+&emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
+&emsp; RPC :green_circle: https://rpc.osmosis.zone/  
 ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-axelar.imperator.co:443  
@@ -44,9 +47,6 @@ Last update: Sat Mar 15 2025 00:08:45 GMT+0000 (Coordinated Universal Time)
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle: https://chihuahua-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf  
-### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
-&emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc.osmosis.zone/  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
