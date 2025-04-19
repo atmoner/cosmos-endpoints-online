@@ -1,4 +1,4 @@
-Last update: Fri Apr 18 2025 12:03:33 GMT+0000 (Coordinated Universal Time)
+Last update: Sat Apr 19 2025 00:09:09 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://lcd-juno.itastakers.com  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -29,12 +29,12 @@ Last update: Fri Apr 18 2025 12:03:33 GMT+0000 (Coordinated Universal Time)
 ### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
 &emsp; LCD :green_circle: https://passage-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
-### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
-&emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc.osmosis.zone/  
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle: https://persistence-rest.zenscape.one  
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
+### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
+&emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
+&emsp; RPC :green_circle: https://rpc.osmosis.zone/  
 ### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
