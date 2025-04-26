@@ -1,4 +1,4 @@
-Last update: Sat Apr 26 2025 00:09:24 GMT+0000 (Coordinated Universal Time)
+Last update: Sat Apr 26 2025 12:03:15 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://rest.lavenderfive.com:443/juno  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
