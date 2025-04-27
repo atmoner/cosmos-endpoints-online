@@ -1,4 +1,4 @@
-Last update: Sun Apr 27 2025 00:10:14 GMT+0000 (Coordinated Universal Time)
+Last update: Sun Apr 27 2025 12:03:18 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://rest.lavenderfive.com:443/juno  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -8,18 +8,18 @@ Last update: Sun Apr 27 2025 00:10:14 GMT+0000 (Coordinated Universal Time)
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle: https://rest.lavenderfive.com:443/kujira  
 &emsp; RPC :green_circle: https://kujira-rpc.polkachu.com  
-### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
-&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
-&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
-### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
-&emsp; LCD :green_circle: https://akash-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc-akash.ecostake.com:443  
 ### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.explorebitsong.com  
+### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
+&emsp; LCD :green_circle: https://akash-rest.publicnode.com  
+&emsp; RPC :green_circle: https://rpc-akash.ecostake.com:443  
 ### <img alt="meme" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png" width="30" height="30"> meme
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
+### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
+&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://scrt.public-rpc.com  
@@ -32,12 +32,12 @@ Last update: Sun Apr 27 2025 00:10:14 GMT+0000 (Coordinated Universal Time)
 ### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
 &emsp; LCD :green_circle: https://passage-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
-### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle: https://persistence-rest.zenscape.one  
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
+### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="axelar" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/axelar/images/axl.png" width="30" height="30"> axelar
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-axelar.imperator.co:443  
