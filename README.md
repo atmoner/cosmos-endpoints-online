@@ -1,4 +1,4 @@
-Last update: Thu May 01 2025 00:10:35 GMT+0000 (Coordinated Universal Time)
+Last update: Thu May 01 2025 12:03:33 GMT+0000 (Coordinated Universal Time)
   ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle: https://rest.lavenderfive.com:443/juno  
 &emsp; RPC :green_circle: https://rpc-juno.itastakers.com  
@@ -14,21 +14,18 @@ Last update: Thu May 01 2025 00:10:35 GMT+0000 (Coordinated Universal Time)
 ### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.explorebitsong.com  
-### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
-&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
-&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
 ### <img alt="meme" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png" width="30" height="30"> meme
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
+### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
+&emsp; RPC :green_circle: https://cosmos-rpc.quickapi.com:443  
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://scrt.public-rpc.com  
 ### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://emoney.validator.network  
-### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
-&emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc.osmosis.zone/  
 ### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
 &emsp; LCD :green_circle: https://passage-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
@@ -41,6 +38,9 @@ Last update: Thu May 01 2025 00:10:35 GMT+0000 (Coordinated Universal Time)
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle: https://persistence-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
+### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
+&emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
+&emsp; RPC :green_circle: https://rpc.osmosis.zone/  
 ### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle: https://api-stargaze.d-stake.xyz  
 &emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
