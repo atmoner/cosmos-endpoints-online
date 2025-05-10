@@ -1,4 +1,4 @@
-Last update: Sat May 10 2025 00:09:16 GMT+0000 (Coordinated Universal Time)
+Last update: Sat May 10 2025 12:03:19 GMT+0000 (Coordinated Universal Time)
   ### <img alt="elys" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png" width="30" height="30"> elys
 &emsp; LCD :green_circle: https://api.elys.network  
 &emsp; RPC :green_circle: https://rpc.elys.network:443  
