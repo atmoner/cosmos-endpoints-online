@@ -1,4 +1,4 @@
-Last update: Mon May 12 2025 00:10:26 GMT+0000 (Coordinated Universal Time)
+Last update: Mon May 12 2025 12:25:18 GMT+0000 (Coordinated Universal Time)
   ### <img alt="elys" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png" width="30" height="30"> elys
 &emsp; LCD :green_circle: https://api.elys.network  
 &emsp; RPC :green_circle: https://rpc.elys.network:443  
@@ -23,15 +23,15 @@ Last update: Mon May 12 2025 00:10:26 GMT+0000 (Coordinated Universal Time)
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://scrt.public-rpc.com  
-### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://emoney.validator.network  
-### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
-&emsp; LCD :green_circle:   
-&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle: https://persistence-rest.zenscape.one  
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
+### <img alt="kichain" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kichain/images/xki.png" width="30" height="30"> kichain
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://rpc-mainnet.blockchain.ki  
+### <img alt="emoney" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/emoney/images/ngm.png" width="30" height="30"> emoney
+&emsp; LCD :green_circle:   
+&emsp; RPC :green_circle: https://emoney.validator.network  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.osmosis.zone/  
