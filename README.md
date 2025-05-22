@@ -1,4 +1,4 @@
-Last update: Thu May 22 2025 01:01:23 GMT+0000 (Coordinated Universal Time)
+Last update: Thu May 22 2025 12:25:51 GMT+0000 (Coordinated Universal Time)
   ### <img alt="elys" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png" width="30" height="30"> elys
 &emsp; LCD :green_circle: https://api.elys.network  
 &emsp; RPC :green_circle: https://rpc.elys.network:443  
@@ -8,12 +8,12 @@ Last update: Thu May 22 2025 01:01:23 GMT+0000 (Coordinated Universal Time)
 ### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
 &emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
 &emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
-### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
-&emsp; LCD :green_circle: https://akash-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc-akash.ecostake.com:443  
 ### <img alt="bitsong" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/btsg.png" width="30" height="30"> bitsong
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc.explorebitsong.com  
+### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
+&emsp; LCD :green_circle: https://akash-rest.publicnode.com  
+&emsp; RPC :green_circle: https://akash-rpc.polkachu.com  
 ### <img alt="meme" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png" width="30" height="30"> meme
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
@@ -38,12 +38,12 @@ Last update: Thu May 22 2025 01:01:23 GMT+0000 (Coordinated Universal Time)
 ### <img alt="persistence" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/xprt.png" width="30" height="30"> persistence
 &emsp; LCD :green_circle: https://persistence-rest.zenscape.one  
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
-### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
-&emsp; LCD :green_circle: https://chihuahua-rest.publicnode.com  
-&emsp; RPC :green_circle: https://rpc.chihuahua.wtf  
 ### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
 &emsp; LCD :green_circle: https://api-stargaze.d-stake.xyz  
 &emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
+### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
+&emsp; LCD :green_circle: https://chihuahua-rest.publicnode.com  
+&emsp; RPC :green_circle: https://rpc.chihuahua.wtf  
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://scrt.public-rpc.com  
