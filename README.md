@@ -1,10 +1,13 @@
-Last update: Sun Jun 01 2025 12:22:43 GMT+0000 (Coordinated Universal Time)
+Last update: Mon Jun 02 2025 01:04:51 GMT+0000 (Coordinated Universal Time)
   ### <img alt="elys" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png" width="30" height="30"> elys
 &emsp; LCD :green_circle: https://api.elys.network  
 &emsp; RPC :green_circle: https://rpc.elys.network:443  
 ### <img alt="kujira" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/kujira/images/kuji.png" width="30" height="30"> kujira
 &emsp; LCD :green_circle: https://rest.lavenderfive.com:443/kujira  
 &emsp; RPC :green_circle: https://kujira-rpc.polkachu.com  
+### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
+&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
+&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
 ### <img alt="akash" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png" width="30" height="30"> akash
 &emsp; LCD :green_circle: https://akash-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc-akash.ecostake.com:443  
@@ -14,9 +17,6 @@ Last update: Sun Jun 01 2025 12:22:43 GMT+0000 (Coordinated Universal Time)
 ### <img alt="meme" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png" width="30" height="30"> meme
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://rpc-meme-1.meme.sx/  
-### <img alt="cosmoshub" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png" width="30" height="30"> cosmoshub
-&emsp; LCD :green_circle: https://cosmoshub.lava.build:443  
-&emsp; RPC :green_circle: https://cosmoshub.tendermintrpc.lava.build:443  
 ### <img alt="juno" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png" width="30" height="30"> juno
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://juno.rpc.m.stavr.tech  
@@ -31,7 +31,7 @@ Last update: Sun Jun 01 2025 12:22:43 GMT+0000 (Coordinated Universal Time)
 &emsp; RPC :green_circle: https://rpc.core.persistence.one  
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
-&emsp; RPC :green_circle: https://osmosis-rpc.quickapi.com:443  
+&emsp; RPC :green_circle: https://rpc.osmosis.zone/  
 ### <img alt="passage" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/passage/images/pasg.png" width="30" height="30"> passage
 &emsp; LCD :green_circle: https://passage-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.passage.vitwit.com  
