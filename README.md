@@ -1,4 +1,4 @@
-Last update: Tue Jun 10 2025 12:26:11 GMT+0000 (Coordinated Universal Time)
+Last update: Wed Jun 11 2025 01:03:12 GMT+0000 (Coordinated Universal Time)
   ### <img alt="elys" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png" width="30" height="30"> elys
 &emsp; LCD :green_circle: https://api.elys.network  
 &emsp; RPC :green_circle: https://rpc.elys.network:443  
@@ -38,15 +38,15 @@ Last update: Tue Jun 10 2025 12:26:11 GMT+0000 (Coordinated Universal Time)
 ### <img alt="osmosis" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png" width="30" height="30"> osmosis
 &emsp; LCD :green_circle: https://osmosis-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.osmosis.zone/  
-### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
-&emsp; LCD :green_circle: https://api-stargaze.d-stake.xyz  
-&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="chihuahua" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/chihuahua/images/huahua.png" width="30" height="30"> chihuahua
 &emsp; LCD :green_circle: https://chihuahua-rest.publicnode.com  
 &emsp; RPC :green_circle: https://rpc.chihuahua.wtf  
 ### <img alt="secretnetwork" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/secretnetwork/images/scrt.png" width="30" height="30"> secretnetwork
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://scrt.public-rpc.com  
+### <img alt="stargaze" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/stargaze/images/stars.png" width="30" height="30"> stargaze
+&emsp; LCD :green_circle: https://api-stargaze.d-stake.xyz  
+&emsp; RPC :green_circle: https://rpc.stargaze-apis.com/  
 ### <img alt="gravitybridge" src="https://raw.githubusercontent.com/cosmos/chain-registry/master/gravitybridge/images/grav.png" width="30" height="30"> gravitybridge
 &emsp; LCD :green_circle:   
 &emsp; RPC :green_circle: https://gravitychain.io:26657  
